@@ -10,10 +10,10 @@ const Hero = () => {
           alt='logo'
           className='w-28 object-contain'
         />
-
+        <p className='flex flex-1 font-bold font-satoshi text-2xl '>siteSnap</p>
         <button 
           type='button' 
-          onClick={ () => window.open("https://github.com/A-bhisheKumar") }
+          onClick={ () => window.open("https://github.com/A-bhiSheKumar/siteSnap") }
           className='black_btn'
           >
           GitHub
