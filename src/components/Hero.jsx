@@ -10,7 +10,7 @@ const Hero = () => {
           alt='logo'
           className='w-28 object-contain'
         />
-        <p className='flex flex-1 font-bold font-satoshi text-2xl '>siteSnap</p>
+        <p className='flex flex-1 font-bold font-satoshi text-2xl'>siteSnap</p>
         <button 
           type='button' 
           onClick={ () => window.open("https://github.com/A-bhiSheKumar/siteSnap") }
@@ -23,7 +23,7 @@ const Hero = () => {
       <h1 className='head_text'>
         Summarize Articles with 
         <br className='max-md:hidden' />
-        <span className='orange_gradient'>GPT-4</span>
+        <span className='orange_gradient'>siteSnap</span>
       </h1>
 
       <h2 className='desc'>
